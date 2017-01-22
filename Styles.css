@@ -1,0 +1,21 @@
+.primaryColor {
+  /*Magenta/Mauve/Whatever*/
+  color: #f44295;
+}
+#someId {
+
+}
+p {
+  color: blue;
+  border: solid;
+}
+
+nav li {
+  color: yellow;
+}
+
+.long {
+  padding: 20px 10px 5px 4px;
+  margin: 40px;
+  max-width: 980px;
+}
